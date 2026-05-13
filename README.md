@@ -1,2 +1,2 @@
 # vnestor7.github.io
-PROJECTE INTERMODULAR GITHUB
+Pàgina web amb presentació 
